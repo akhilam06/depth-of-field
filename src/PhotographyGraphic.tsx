@@ -106,15 +106,15 @@ export const SUBJECTS = {
     graphic: HumanAtDesk,
     height: 54,
   },
-  "Small Dog": {
+  "Small IndiaBatard": {
     graphic: SmallCat,
     height: 20,
   },
-  "Medium Dog": {
+  "IndiaBatard": {
     graphic: MediumCat,
     height: 30,
   },
-  "Large Dog": {
+  "Large IndiaBatard": {
     graphic: LargeCat,
     height: 40,
   },
