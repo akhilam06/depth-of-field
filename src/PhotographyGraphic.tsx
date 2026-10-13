@@ -107,15 +107,15 @@ export const SUBJECTS = {
     height: 54,
   },
   "Small Dog": {
-    graphic: SmallDog,
+    graphic: SmallCat,
     height: 20,
   },
   "Medium Dog": {
-    graphic: MediumDog,
+    graphic: MediumCat,
     height: 30,
   },
   "Large Dog": {
-    graphic: LargeDog,
+    graphic: LargeCat,
     height: 40,
   },
 };
